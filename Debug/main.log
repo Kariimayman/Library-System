@@ -1,0 +1,5 @@
+﻿  Booklist.cpp
+C:\Users\kareem\source\repos\main\Booklist.cpp(32): warning C4715: 'BookList::searchBook': not all control paths return a value
+C:\Users\kareem\source\repos\main\Booklist.cpp(50): warning C4715: 'BookList::searchBook': not all control paths return a value
+C:\Users\kareem\source\repos\main\Booklist.cpp(101): warning C4715: 'BookList::getTheHighestRatedBook': not all control paths return a value
+  main.vcxproj -> C:\Users\kareem\source\repos\main\Debug\main.exe
